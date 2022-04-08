@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LibBSP</RootNamespace>
     <AssemblyName>LibBSP</AssemblyName>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFrameworkVersion>4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
